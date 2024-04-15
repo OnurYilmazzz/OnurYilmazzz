@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5622AQF8c620i4sT1g/feedshare-shrink_2048_1536/0/1674697786869?e=2147483647&v=beta&t=LuhjfMqL1oo8TOvIwP13pPHifZR6eq8hVlJZUkuw8nQ)]
+![MasterHead](https://media.licdn.com/dms/image/C5622AQF8c620i4sT1g/feedshare-shrink_2048_1536/0/1674697786869?e=2147483647&v=beta&t=LuhjfMqL1oo8TOvIwP13pPHifZR6eq8hVlJZUkuw8nQ)
 <h1 align="center">Hi 👋, I'm Onur Yılmaz</h1>
 <h3 align="center">A passionate iOS Developer from Turkey</h3>
 <img align="right" alt="Coding" width="300" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
